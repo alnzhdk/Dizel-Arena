@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дизель Арена</string>
+    <string name="login">Вход</string>
+    <string name="username">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="schedule">Расписание</string>
+    <string name="news">Новости</string>
+    <string name="profile">Профиль</string>
+    <string name="sportsmen">Спортсмены</string>
+    <string name="trainings">Тренировки</string>
+    <string name="statistics">Статистика</string>
+    <string name="role_sportsman">Спортсмен</string>
+    <string name="role_trainer">Тренер</string>
+</resources>
